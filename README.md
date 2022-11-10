@@ -1,32 +1,24 @@
-## **1. Categoría del proyecto**
+## 1. Categoría del proyecto
 
-Smart Contract
+NFT
 
-## **2. Link del github**
+## 2. Link del github
 
-https://github.com/Bonvo-dot/smartContracts
+https://github.com/Bonvo-dot/nftsBonvo
 
-## **3. Link del video**
+## 3. Link del video
 
 https://www.youtube.com/channel/UC2FxQ9f7GJiCoXXVEu1rPUw/featured
 
-## **4.Nombre del equipo**
+## 4.Nombre del equipo
 
-Bonvo
+Bonvo NFT
 
-## **5. Descripción del proyecto.**
+## 5. Descripción del proyecto.
 
-Bonvo es un oráculo que tiene por objeto brindar información fidedigna de alquiler de propiedades en tiempo real. Mediante la recolección de APIs de la industria inmobiliaria o real estate, se muestran datos recogidos y catalogados de acuerdo a diversos parámetros sobre casas y apartamentos en alquiler.
+Bonvo es una aplicación descentralizada que tiene por objeto brindar información fidedigna de alquiler de propiedades en tiempo real. Se muestran datos recogidos y catalogados de acuerdo a diversos parámetros sobre casas y apartamentos en alquiler. Bonvo es un conjunto de smart contracts deployado sobre la red de Moonbean, permite a los usuarios crear un token ERC-721 o “mintear” la información de sus casas y apartamentos en alquiler, como NFTs siendo estos propiedad de los mismos al momento de crearlo. Brindando la posibilidad de acceder a esta información en todo momento. Bonvo te permite ganar recompensas, en forma de BNV tokens al hacerlo y formar parte de la comunidad. El token BNV es un token fungible con un supply de 100 millones.
 
-Bonvo es un smart contract deployado sobre la red de Moonbean, recoge datos off-chain para plasmar en la blockchain, recolectando y actualizando información al instante, brindando la posibilidad de acceder a información actualizada en todo momento.
-
-Bonvo te permite ganar recompensas, en forma de BNV tokens. Para este hackaton las recompensas se reciben en dos maneras:
-
-1- Cada vez que dejas una reseña en nuestro sitio web, validando la misma al enlazar tu Wallet y verificando tu localización mediante tu ubicación GPS, recibes BNV tokens como recompensa.
-
-2- Recibes también BNV tokens como recompensa cuando subes una propiedad a la plataforma.
-
-## **6. Nombres de los participantes\*\***
+## 6. Nombres de los participantes
 
 Matias Guagliardo - [matias.guagliardo@gmail.com](mailto:matias.guagliardo@gmail.com) - [https://github.com/Mattteus1](https://github.com/Mattteus1)
 
@@ -38,56 +30,37 @@ Huéscar Miranda. - [huascarm@gmail.com](mailto:huascarm@gmail.com) - [https://g
 
 Gustavo Matta. - [linkzelda2016o@gmail.com](mailto:linkzelda2016o@gmail.com) - [https://github.com/BetX19](https://github.com/BetX19)
 
-## **7.Nombre del proyecto.**
+## 7.Nombre del proyecto.
 
-Bonvo
+Bonvo NFT
 
-## **8. logotipo del proyecto.**
+## 8. logotipo del proyecto.
 
-![](https://lh6.googleusercontent.com/KqMupGU_NJUPgq5_XzMJdY8HMT6aYr6wjbFqtH9aMDXZat5AQc8GQUUT5tqb7HxgYIjGDKPtK6cB3A1zXPglWkMPek3lDv4o7iU6hTp0Sp_Cd1iKTi5AEToI2m8pv20iuTtShB2_3S73vqsIN_QuU8L4eLIHHghSZ-cStw_ODcLmmerBhIWmOjZrKbSG-g)
+![](https://lh6.googleusercontent.com/hsM_jZU3bRVcfW_A9ADNvq5LkHWXRFV7f5IEhoVBbW3OWaiEnT4LBGA4Qmd3plf6z366t9IGzcnCR0IjWpaEm9OPlhvKCeE0sh66SMLYp-0nYexsceKy9O774pbT0owKnZqLCEuDscZlf1bZGuHMmOVp3apENHRlR08vROfRJ-rhArnlHRZDx-Gx81Ta_w)
 
-## **9. Descripción del problema**
+## 9. Descripción del problema
 
-El problema radica en la imposibilidad de encontrar información específica,
+El problema radica en la imposibilidad de encontrar información específica, actualizada y fidedigna de casas o apartamentos en alquiler. Y en la falta de los estímulos económicos adecuados para arrendatarios y locatarios.
 
-actualizada y fidedigna de casas o apartamentos en alquiler.
+## 10.Solución o ayuda en la resolución del problema
 
-## **10.Solución o ayuda del problema**
+Se busca incentivar el alquiler o renta de propiedades de casas o apartamentos, brindando información fidedigna y transparente a los usuarios.
 
-A través del oráculo se accede a información de diferentes fuentes que constantemente se irán actualizando para proveer datos sobre casas o apartamentos en alquiler brindando información fidedigna y transparente para los usuarios.
+Bonvo permite ganar recompensas, cada vez que el usuario carga o mintea una nueva propiedad en alquiler, esto se logra a través del enlace de la billetera virtual, cargando los datos de la propiedad que se alquilara y cargando una fotografía. Al realizar esta acción el usuario recibe:
 
-Bonvo te permite ganar recompensas, cada vez que dejas una reseña en nuestro sitio web.
+1- Su “Propiedad NFT”, Un token único no fungible que representa su propiedad y puede ser transferido o alquilado y en un futuro vendido en diferentes marketplaces.
 
-Cada vez que dejas una reseña, a través del enlace de tu billetera virtual firmando tu comentario,
+2- Recibe también, como recompensa tokens BNV.
 
-recibirás como premio tokens BNV y en el futuro NFTs y más beneficios. Hacemos esto con el propósito de
+Se prevé la entrega de más beneficios en el futuro. Hacemos esto con el propósito de generar una retroalimentación positiva, robusta y segura para proteger e incentivar tanto a inquilinos como propietarios, creando una comunidad afín, participativa y empática.
 
-generar una retroalimentación positiva, robusta y segura para proteger tanto a inquilinos como propietarios,
+Se busca brindar una transparencia a las personas que rentan un departamento así como a los dueños de casas y/o condominios, haciendo accesible esa información en la blockchain.
 
-creando una comunidad afín, participativa y empática.
+## 11. Pila tecnológica
 
-A medida que el proyecto evoluciona, se busca integrar entre su público objetivo usuarios que quieran ser inquilinos
+Cada vez que un usuario crea un asset (casa para alquilar por ejemplo), se sube la primera foto de esta como imágen del NFT.
+Este NFT cumple con los estándares ERC-721 generales.
 
-así como también propietarios individuales, inmobiliarias y dueños de condominios, etc.
-
-Se busca brindar una transparencia a las personas que rentan un departamento así como a los dueños de casas y/o condominios
-
-haciendo transparente esa información en la blockchain.
-
-## **11. Pila tecnológica**
-
-El proyecto consiste en smart contracts desarrollados en solidity y desplegados sobre moonbeam.
-
-Los contratos basicamente constan de dos structs principales, uno para guardar perfiles de usuario (USERS) y otro para guardar activos (ASSETS) en donde se registran las casas y otros, a rentar.
-
-Los usuarios añaden sus calificaciones en un modelo llamado RATE y registran el alquiler de sus bienes en otro modelo llamado RENT.
-
-Los ASSETS además siguen el estándar ERC-721 que registra cada uno, como un NFT individual.
-
-Para instalar el sistema, siga las instrucciones del archivo install.md
-
-## **12. Enlace de la demostración del proyecto (url de la página)**
+## 12. Enlace de la demostración del proyecto (url de la página)
 
 [https://bonvo-front-cicd-r7ee2dy4ea-rj.a.run.app/#/my-account](https://bonvo-front-cicd-r7ee2dy4ea-rj.a.run.app/#/my-account)
-readmelisto.md
-5 KB
