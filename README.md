@@ -4,7 +4,14 @@
 
 **2. Link del github**
 
-    https://github.com/Bonvo-dot/nftsBonvo
+Solidity Smart contracts.
+
+    - https://github.com/Bonvo-dot/nftsBonvo
+
+Demostración de funcionamiento de los smart contracts
+
+    - https://github.com/Bonvo-dot/frontend
+    - https://github.com/Bonvo-dot/backend
 
 **3. Link del video**
 
